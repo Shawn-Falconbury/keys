@@ -1,4 +1,5 @@
-'''text
+'''markdown
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZcFVeBYJKwYBBAHaRw8BAQdAj+Db/ZbULn6m50wtlOZA0UMr0CIwNe4We3rc
@@ -13,4 +14,5 @@ rwegy8IdimRzdUwlidNP8gIA/jg9ZIo/BJWc09Acx+B1qynXGpntSQw3uR8fa+5P
 EcEJ
 =m+4X
 -----END PGP PUBLIC KEY BLOCK-----
+
 '''
